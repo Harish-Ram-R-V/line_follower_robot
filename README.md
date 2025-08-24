@@ -25,3 +25,6 @@ like how you might walk along a painted path in a park.
 ## What Powers the Robot?
   Inside, it has small motors that move its wheels. The robot’s “brain” (the Arduino) tells these motors how fast and in what direction to spin, based on what the sensors see.
   The motors make the wheels turn forward, backward, or slow down one side — all to keep the robot hugging the line perfectly.
+
+## checkout my tinkercad simulation here:
+    https://www.tinkercad.com/things/bCmsvM9BGHd-linefollowerrobot?sharecode=cyQiaeeWh5at79K5rc31ePbUFMwiM6bWxRwiE73FTLk
