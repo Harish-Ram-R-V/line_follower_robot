@@ -13,6 +13,7 @@ like how you might walk along a painted path in a park.
 ## How Does the Robot Decide Which Way to Turn?
   Think of it like how you balance when walking on a narrow path: if you start to drift to one side, you naturally adjust your steps to stay on the line.
   The robot does the same using a method called PID control — which stands for Proportional, Integral, Derivative. It’s a fancy way of saying:
+    
     Proportional: “Hey, I’m a little off — let me correct a bit.”
     Integral: “I’ve been off for a while — I need to correct more.”
     Derivative: “My error is changing fast — better adjust quickly.”
